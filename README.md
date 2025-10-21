@@ -5,7 +5,7 @@ PolishCow.live is a random project i made in a weekend inspired by parrot.live (
 Try It Yourself in any terminal! (But not powershell)
 ```bash
 curl polishcow.live
-
+```
 
 A project inspired by [parrot.live](https://parrot.live) [Terminal-parrot](https://github.com/jmhobbs/terminal-parrot) and  featuring the one and only **Polish Dancing Cow**.  
 Stream it straight into your terminal with just `curl`!
